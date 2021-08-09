@@ -11,7 +11,7 @@ config.kafka.retries = 0;
 config.kafka.logLevel = 4,
 
 config.kafka.topics = [{
-    topic: "test-topic",
+    topic: "test_topic_gps",
     numPartitions: 1,
     replicationFactor: 1 
 }]
